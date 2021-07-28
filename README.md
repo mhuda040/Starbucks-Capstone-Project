@@ -46,6 +46,8 @@ Must have Python 3 installed to run the required files.
 
 Must have the newest version of pandas to read in the transcript.json file correctly; previous versions of pandas will require going into the workspace terminal and running the following command:  `conda update pandas`
 
+Must unzip the data.zip file in a directory called 'data'
+
 Must include the following libraries in the Starbucks_Capstone_notebook.ipynb file:
 - numpy
 - pandas
