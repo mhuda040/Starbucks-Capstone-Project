@@ -38,7 +38,7 @@ We will analyze and clean the data, then perform modeling using a variety of cla
     - time (int) - time in hours since start of test. The data begins at time t=0
     - value - (dict of strings) - either an offer id or transaction amount depending on the record
 
-Please note that the JSON files are stored in a ZIP file; you will need to unzip the files and store them in a directory called 'data', in order for the Starbucks_Capstone_notebook.ipynb file to run properly.
+Please note that the JSON files are stored in a ZIP file; you will need to unzip this file and extract the JSON files in a directory called 'data', in order for the Starbucks_Capstone_notebook.ipynb file to run properly.
 
 ## Installation
 
