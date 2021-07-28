@@ -42,7 +42,7 @@ Please note that the JSON files are stored in a ZIP file; you will need to unzip
 
 ## Installation
 
-Must have Python 3 installed to run the required files.
+Must have Python 3 or higher to run the required files.
 
 Must have the newest version of pandas to read in the transcript.json file correctly; previous versions of pandas will require going into the workspace terminal and running the following command:  `conda update pandas`
 
@@ -60,7 +60,7 @@ Must include the following libraries in the Starbucks_Capstone_notebook.ipynb fi
 
 ## Instructions
 
-Run the Starbucks_Capstone_notebook.ipynb file by going to the terminal, selecting Cell, then Run All.
+Run the Starbucks_Capstone_notebook.ipynb file by going to the terminal, selecting Cell, then Run All.  If using a different Jupyter Notebook, please ensure the above installation criteria are met and that there is an option to run all Python cells in the notebook.
 
 ## Summary Highlights
 
