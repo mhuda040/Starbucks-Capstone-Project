@@ -16,7 +16,7 @@ We will analyze and clean the data, then perform modeling using a variety of cla
 - HTML files
   - `Starbucks_Capstone_notebook.html`:  HTML version of main Jupyter Notebook file
 
-- Dataset files
+- Dataset files (these should not be modified in any way; also these files are not used in the actual Starbucks mobile app)
   - `profile.json`:  JSON file that contains demographics of Rewards program users:
     - age (int) - age of the customer
     - became_member_on (int) - date when customer created an app account
